@@ -1,85 +1,141 @@
 # Hi, I'm Siradj 👋
 
-### AI & Software Engineering Student | Building Technology That Helps People
+### AI & Software Developer | Building Technology That Helps People
 
-🎓 Master's Student in **Artificial Intelligence & Applications**
-💻 Interested in **AI, Software Engineering, Web Development & Product Design**
-🚀 I like building technologies that solve real problems and make people's lives easier.
+🎓 Master's Student in **Artificial Intelligence & Applications**  
+🤖 AI • Machine Learning • Software Engineering  
+🌐 Angular • FastAPI • Python • TypeScript  
+🐧 Linux • Git • SQL • Docker  
+🎨 UI / Visual Design • Photoshop  
+
+I enjoy turning ideas into useful technologies that solve real problems,  
+improve people's lives, and make things easier to do.
 
 ---
 
 ## 🧠 About Me
 
-I'm a Computer Science student focused on turning ideas into useful products.
+I'm a Computer Science student focused on **AI Engineering and Software Development**.
 
-My current direction is **AI Engineering + Full-Stack Development**, with a particular interest in building intelligent applications that people can actually use.
+My goal is to combine software engineering, artificial intelligence, and good design to build products that are not only technically interesting, but actually **useful to people**.
 
-I'm currently working with:
+I'm particularly interested in:
 
-* 🤖 Artificial Intelligence & Machine Learning
-* 🐍 Python
-* ⚡ FastAPI
-* 🅰️ Angular
-* 🗄️ SQL & Databases
-* 🐧 Linux
-* 🔧 Git & GitHub
-* 🎨 Photoshop & UI/Visual Design
-
-I'm also interested in learning more about **MLOps, cloud technologies, system design, and production AI systems**.
+- 🤖 Artificial Intelligence & Machine Learning
+- 🌐 Full-Stack Web Development
+- ⚡ AI-powered applications
+- 🧠 Intelligent automation
+- 🎨 User experience and visual design
+- 🚀 Building useful products and real-world solutions
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,sql" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css" />
 </p>
 
-### Web & Backend
+### 🌐 Web & Backend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=angular,fastapi,nestjs,flutter,html,css" />
+  <img src="https://skillicons.dev/icons?i=angular,fastapi,nestjs,flutter" />
 </p>
 
-### AI & Data
+### 🤖 AI & Data
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
-### Tools & Development
+### 🗄️ Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,figma,photoshop" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### ⚙️ Tools & Environment
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" />
+</p>
+
+### 🎨 Design
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
 </p>
 
 ---
 
-## 🛠️ What I Like Building
+## 🚀 What I Like Building
 
-I am particularly interested in building:
+I enjoy building technologies that can make a real difference.
 
-🤖 AI-powered applications
-🌐 Modern web applications
-📱 Useful mobile applications
-📊 Data-driven tools
-🧠 Intelligent automation
-🎨 Technology with good user experience
+🤖 AI-powered tools  
+🌐 Modern web applications  
+📱 Mobile applications  
+🧠 Intelligent systems  
+📊 Data-driven solutions  
+⚙️ Automation tools  
+🎨 Products with good user experience  
 
-My goal isn't just to write code.
+> **I don't just want to write code. I want to build technology that helps people.**
 
-> **I want to build technology that helps people do things better.**
+---
+
+## 📚 Currently Learning
+
+### 🤖 AI Engineering
+- Machine Learning
+- Deep Learning
+- Generative AI
+- LLM applications
+- AI integration into real-world products
+
+### 🌐 Software Engineering
+- Angular
+- TypeScript
+- FastAPI
+- REST APIs
+- Backend architecture
+- System design
+
+### ☁️ Production & Infrastructure
+- Docker
+- MLOps
+- Cloud technologies
+- CI/CD
+- Production deployment
+
+---
+
+## 🎯 Current Goals
+
+- 🚀 Build production-ready AI applications
+- 🤖 Become a stronger AI Engineer
+- 🌐 Become highly proficient with Angular + FastAPI
+- 🐍 Improve my Python engineering skills
+- ☁️ Learn MLOps and cloud infrastructure
+- 🧑‍💻 Contribute to open-source projects
+- 💼 Gain professional experience in AI / Software Engineering
+- 🌍 Build technology that solves real problems
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=sirgio03&show_icons=true&theme=tokyonight&include_all_commits=true"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirgio03&layout=compact&theme=tokyonight"
+  />
 </p>
 
 ---
@@ -87,7 +143,9 @@ My goal isn't just to write code.
 ## 🔥 Coding Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=false" />
+  <img
+    src="https://streak-stats.demolab.com/?user=sirgio03&theme=tokyonight"
+  />
 </p>
 
 ---
@@ -95,51 +153,48 @@ My goal isn't just to write code.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=sirgio03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7"
+  />
 </p>
 
 ---
 
-## 📚 Currently Learning
+## 📈 My Development Journey
 
-```text
-AI Engineering       █████████░  90%
-Python               █████████░  85%
-Web Development      ████████░░  80%
-Angular              ███████░░░  70%
-FastAPI              ███████░░░  70%
-Linux                ███████░░░  70%
-Docker / MLOps       █████░░░░░  50%
-Cloud                ███░░░░░░░  30%
-```
+I'm continuously trying to improve through:
 
----
-
-## 🎯 My Current Goals
-
-* Build production-ready AI applications
-* Become a stronger full-stack developer
-* Improve my Angular + FastAPI stack
-* Learn MLOps and cloud deployment
-* Contribute to open-source projects
-* Build products that solve real problems
-* Get an AI / Software Engineering internship
+💻 Building projects  
+📚 Studying new technologies  
+🧠 Understanding how systems work  
+🔨 Experimenting with ideas  
+🌍 Learning from the developer community  
+🚀 Turning what I learn into actual products
 
 ---
 
 ## 🤝 Let's Connect
 
 <p align="left">
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+
+  <a href="https://github.com/sirgio03">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
 </p>
 
 ---
 
 <p align="center">
-<i>Building, learning, and turning ideas into useful technology.</i>
+  <i>Building. Learning. Improving. Helping people through technology.</i>
 </p>
