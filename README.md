@@ -10,7 +10,7 @@ title="Hi there! I'm Siradj"
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/siradj-lamri">
   <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -33,7 +33,7 @@ Welcome to my GitHub! I'm <b>Siradj</b>, an AI and Software Developer currently 
       <br>Python
     </td>
 
-```
+
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" />
   <br>Java
@@ -78,7 +78,7 @@ Welcome to my GitHub! I'm <b>Siradj</b>, an AI and Software Developer currently 
       <br>TensorFlow
     </td>
 
-```
+
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
   <br>MySQL
@@ -113,7 +113,7 @@ Welcome to my GitHub! I'm <b>Siradj</b>, an AI and Software Developer currently 
   <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
   <br>VS Code
 </td>
-```
+
 
   </tr>
 
@@ -123,7 +123,7 @@ Welcome to my GitHub! I'm <b>Siradj</b>, an AI and Software Developer currently 
       <br>HTML
     </td>
 
-```
+
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
   <br>CSS
@@ -138,14 +138,6 @@ Welcome to my GitHub! I'm <b>Siradj</b>, an AI and Software Developer currently 
   <img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48" alt="Photoshop" />
   <br>Photoshop
 </td>
-```
 
   </tr>
 </table>
-
-<img
-alt="dino.gif"
-src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif"
-style="display: block; opacity: 1;"
-
->
