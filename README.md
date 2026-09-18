@@ -1,143 +1,145 @@
+<div align="center">
+
 <img
-src="https://raw.githubusercontent.com/sirgio03/sirgio03/main/intro.gif"
-alt="Hi there! I'm Siradj"
-title="Hi there! I'm Siradj"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=750&height=100&lines=Hi+there!+I'm+Siradj+%F0%9F%91%8B;AI+%26+Software+Developer;I+build+useful+things+with+AI."
+alt="Siradj animated introduction"
 />
 
-<div align="left">
+</div>
+
+<div align="center">
 
 <a href="https://github.com/sirgio03">
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+
+ 
+
 <a href="https://www.linkedin.com/in/siradj-lamri">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
 
-<p></p>
+<br>
 
-<p align="justify">
-Welcome to my GitHub! I'm <b>Siradj</b>, an AI and Software Developer currently pursuing a Master's degree in <b>Artificial Intelligence & Applications</b>. I enjoy combining artificial intelligence, software engineering, and design to build useful technologies that solve real-world problems. I'm especially interested in machine learning, intelligent systems, full-stack development, automation, and bringing AI into practical applications.
+<p align="center">
+I'm <b>Siradj</b>, an AI & Software Developer pursuing a Master's degree in
+<b>Artificial Intelligence & Applications</b>.
 </p>
+
+<p align="center">
+I enjoy combining <b>artificial intelligence, software engineering, and design</b>
+to build practical products that solve real problems.
+</p>
+
+<br>
 
 ## My favorite tools and technologies ⚙️
 
-> Technologies I work with, study, and use to build real-world applications.
+> Technologies I use and enjoy working with.
 
 <table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
-      <br>Python
-    </td>
+<tr>
 
-
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" />
-  <br>Java
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/>
+<br><b>Python</b>
 </td>
 
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
-  <br>JavaScript
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript"/>
+<br><b>JavaScript</b>
 </td>
 
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript" />
-  <br>TypeScript
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript"/>
+<br><b>TypeScript</b>
 </td>
 
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=angular" width="65" height="65" alt="Angular" />
-  <br>Angular
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=angular" width="58" height="58" alt="Angular"/>
+<br><b>Angular</b>
 </td>
 
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt="FastAPI" />
-  <br>FastAPI
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=fastapi" width="58" height="58" alt="FastAPI"/>
+<br><b>FastAPI</b>
 </td>
 
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=flutter" width="65" height="65" alt="Flutter" />
-  <br>Flutter
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=pytorch" width="58" height="58" alt="PyTorch"/>
+<br><b>PyTorch</b>
 </td>
 
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="PyTorch" />
-  <br>PyTorch
-</td>
-```
+</tr>
 
-  </tr>
+<tr>
 
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-
-
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-  <br>MySQL
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL"/>
+<br><b>MySQL</b>
 </td>
 
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-  <br>PostgreSQL
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=postgresql" width="58" height="58" alt="PostgreSQL"/>
+<br><b>PostgreSQL</b>
 </td>
 
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
-  <br>Docker
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker"/>
+<br><b>Docker</b>
 </td>
 
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-  <br>Linux
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=linux" width="58" height="58" alt="Linux"/>
+<br><b>Linux</b>
 </td>
 
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-  <br>Git
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git" width="58" height="58" alt="Git"/>
+<br><b>Git</b>
 </td>
 
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
-  <br>GitHub
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub"/>
+<br><b>GitHub</b>
 </td>
 
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-  <br>VS Code
-</td>
-
-
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-
-
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-  <br>CSS
-</td>
-
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-  <br>Figma
-</td>
-
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48" alt="Photoshop" />
-  <br>Photoshop
-</td>
-
-  </tr>
+</tr>
 </table>
+
+<br>
+
+## What I'm interested in 🧠
+
+<p>
+🤖 Artificial Intelligence & Machine Learning<br>
+🌐 Full-Stack Software Development<br>
+⚡ AI-powered Applications<br>
+🧠 Intelligent Automation<br>
+🎨 UI & Product Design<br>
+🚀 Building useful real-world products
+</p>
+
+<br>
+
+<div align="center">
+
+<a href="https://giphy.com/gifs/new-google-materialup-MRDICUC5enJy8">
+  <img
+    src="https://media.giphy.com/media/MRDICUC5enJy8/giphy.gif"
+    width="480"
+    alt="Developer animation"
+  />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<i>Build things. Learn deeply. Make them useful.</i>
+
+</div>
