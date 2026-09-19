@@ -35,6 +35,23 @@ to build practical products that solve real problems.
 
 <br>
 
+## Open Source Contributions 🌍
+
+> Active contributor to high-impact, fast-growing AI repositories.
+
+<a href="https://github.com/NandhaKishorM/laya">
+  <img src="https://raw.githubusercontent.com/NandhaKishorM/laya/main/assets/logo-lockup.png" width="160" align="right" alt="Laya AI Logo" style="margin-left: 20px;">
+</a>
+
+**[Laya](https://github.com/NandhaKishorM/laya)** — *System 1 AI Engine*  
+*Laya is a blazing-fast, non-autoregressive AI engine that outputs strict JSON probabilities in ~35ms, bypassing the latency of traditional LLMs.*
+- **Core Engineering:** Identified and fixed a critical CUDA/GPU silent fallback bug affecting newer NVIDIA architectures (Merged to `main`).
+- **Tooling & SDKs:** Architected the OpenAI-compatible FastAPI server and developed the drop-in TypeScript/Node.js SDK (`laya-sdk`) for web developers.
+- **Brand Identity:** Conceptualized the "converging dots" design theme, which was adopted by the creator as the geometric foundation for the official project logo.
+
+<br>
+<br>
+
 ## My favorite tools and technologies ⚙️
 
 > Technologies I use and enjoy working with.
