@@ -36,7 +36,10 @@
 
 <div align="center">
   <a href="https://github.com/NandhaKishorM/laya">
-    <img src="https://raw.githubusercontent.com/NandhaKishorM/laya/main/assets/logo-lockup.png" width="220" alt="Laya AI Logo">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NandhaKishorM/laya/main/assets/logo-lockup-dark.png" />
+      <img src="https://raw.githubusercontent.com/NandhaKishorM/laya/main/assets/logo-lockup.png" width="240" alt="Laya AI Logo" />
+    </picture>
   </a>
 </div>
 
@@ -46,7 +49,7 @@
   </a>
 </div>
 
-### 🔥 [Laya-Ignite](https://github.com/sirgio03/laya-ignite) — *Zero-Shot to System-1 Decision Bootstrap Engine*
+### 🔥 [Laya-Ignite](https://github.com/sirgio03/laya-ignite) — *Zero-Shot to System-1 Decision Bootstrap Engine* &nbsp; [![Discussion](https://img.shields.io/badge/Laya_Discussion-%23495-blueviolet?logo=github)](https://github.com/NandhaKishorM/laya/discussions/495)
 *An automated synthesis & rapid adaptation engine that turns cold-start task criteria into specialized, calibrated sub-35ms Laya decision models in 30 seconds.*
 * 🚀 **Automated Synthetic Data:** Generates diverse multi-task datasets and **adversarial hard-negatives** to immunize small models against keyword & negation traps.
 * ⚡ **Rapid Head Adaptation:** Freezes encoder backbones and trains decision heads in ~15–25 seconds with post-hoc temperature calibration (driving ECE < 0.08).
