@@ -40,6 +40,12 @@
   </a>
 </div>
 
+### 🔥 [Laya-Ignite](https://github.com/sirgio03/laya-ignite) — *Zero-Shot to System-1 Decision Bootstrap Engine*
+*An automated synthesis & rapid adaptation engine that turns cold-start task criteria into specialized, calibrated sub-35ms Laya decision models in 30 seconds.*
+* 🚀 **Automated Synthetic Data:** Generates diverse multi-task datasets and **adversarial hard-negatives** to immunize small models against keyword & negation traps.
+* ⚡ **Rapid Head Adaptation:** Freezes encoder backbones and trains decision heads in ~15–25 seconds with post-hoc temperature calibration (driving ECE < 0.08).
+* 🎨 **Interactive UI:** Built-in Gradio interface for 1-click bootstrapping and real-time sub-35ms live inference playgrounds.
+
 ### ⚡ [Laya](https://github.com/NandhaKishorM/laya) — *Sub-35ms System-1 Decision Engine*
 *Laya is a non-autoregressive AI engine that outputs strict JSON probabilities with sub-35ms latency, eliminating LLM token latency for deterministic workflows.*
 
