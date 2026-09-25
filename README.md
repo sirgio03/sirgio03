@@ -46,7 +46,7 @@
 * 🇩🇿 **Sole Algerian Contributor:** First and only contributor representing Algeria in the core Laya ecosystem.
 * 🚀 **Batch Decision Engine ([PR #387](https://github.com/NandhaKishorM/laya/pull/387)):** Architected and implemented the `POST /v1/systemone/batch` endpoint, enabling single-forward-pass batching across multiple states, concurrency admission gating (`503` overload protection), and strict option limit validation.
 * 🛠️ **Core GPU Fallback Diagnostics ([PR #9](https://github.com/NandhaKishorM/laya/pull/9) - Merged to `main`):** Diagnosed and resolved Issue #6, preventing silent CPU performance degradation on modern NVIDIA GPU architectures (Blackwell / RTX 50-series).
-* 📦 **TypeScript/JavaScript Ecosystem ([`laya-sdk`](https://github.com/sirgio03/laya-sdk)):** Built the drop-in TypeScript SDK providing full type safety and seamless client-side decision builders (`choice`, `score`, `noul`).
+* 📦 **TypeScript/JavaScript Ecosystem ([`laya-sdk`](https://github.com/ryuzcorp/laya-sdk)):** Built the drop-in TypeScript SDK providing full type safety and seamless client-side decision builders (`choice`, `score`, `noul`).
 * 🎨 **Brand Identity:** Conceptualized the "converging dots" motif that was adopted as the geometric basis for Laya's official branding.
 
 ---
