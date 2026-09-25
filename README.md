@@ -40,6 +40,12 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/sirgio03/laya-ignite">
+    <img src="https://raw.githubusercontent.com/sirgio03/laya-ignite/main/assets/laya_ignite_banner.png" width="480" alt="Laya-Ignite Logo">
+  </a>
+</div>
+
 ### 🔥 [Laya-Ignite](https://github.com/sirgio03/laya-ignite) — *Zero-Shot to System-1 Decision Bootstrap Engine*
 *An automated synthesis & rapid adaptation engine that turns cold-start task criteria into specialized, calibrated sub-35ms Laya decision models in 30 seconds.*
 * 🚀 **Automated Synthetic Data:** Generates diverse multi-task datasets and **adversarial hard-negatives** to immunize small models against keyword & negation traps.
