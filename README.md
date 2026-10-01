@@ -22,11 +22,24 @@
 <br>
 
 <p align="center">
-  I'm <b>Siradj Mounir Lamri</b>, an <b>AI & Software Engineer</b> pursuing advanced studies in <b>Artificial Intelligence & Applications</b> in Algeria 🇩🇿.<br>
+  I'm <b>Siradj Mounir Lamri</b>, an <b>AI &amp; Software Engineer</b> pursuing advanced studies in <b>Artificial Intelligence &amp; Applications</b> in Algeria &#x1F1E9;&#x1F1FF;.<br>
   I specialize in <b>small, fast inference models (System-1 AI)</b>, high-performance ML backends, and full-stack AI engineering.
 </p>
 
 <br>
+
+---
+
+## 🏅 GitHub Achievements
+
+<div align="center">
+
+[![YOLO](https://img.shields.io/badge/Achievement-YOLO-%23f7c948?style=for-the-badge&logo=github&logoColor=black)](https://github.com/sirgio03?tab=achievements)
+[![Pull Shark](https://img.shields.io/badge/Achievement-Pull%20Shark%20%F0%9F%A6%88-%230d9eff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sirgio03?tab=achievements)
+
+*4 merged pull requests across open-source AI repositories*
+
+</div>
 
 ---
 
@@ -49,20 +62,37 @@
   </a>
 </div>
 
-### 🔥 [Laya-Ignite](https://github.com/sirgio03/laya-ignite) — *Zero-Shot to System-1 Decision Bootstrap Engine* &nbsp; [![Discussion](https://img.shields.io/badge/Laya_Discussion-%23495-blueviolet?logo=github)](https://github.com/NandhaKishorM/laya/discussions/495)
+### 🔥 [Laya-Ignite](https://github.com/sirgio03/laya-ignite) — *Zero-Shot to System-1 Decision Bootstrap Engine* &nbsp; [![Discussion](https://img.shields.io/badge/Laya_Discussion-%23495-blueviolet?logo=github)](https://github.com/NandhaKishorM/laya/discussions/495) [![HF Space](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Live%20Demo-orange)](https://huggingface.co/spaces/Lamri26/laya-ignite)
+
 *An automated synthesis & rapid adaptation engine that turns cold-start task criteria into specialized, calibrated sub-35ms Laya decision models in 30 seconds.*
+
 * 🚀 **Automated Synthetic Data:** Generates diverse multi-task datasets and **adversarial hard-negatives** to immunize small models against keyword & negation traps.
 * ⚡ **Rapid Head Adaptation:** Freezes encoder backbones and trains decision heads in ~15–25 seconds with post-hoc temperature calibration (driving ECE < 0.08).
 * 🎨 **Interactive UI:** Built-in Gradio interface for 1-click bootstrapping and real-time sub-35ms live inference playgrounds.
+* ☁️ **Live on HuggingFace Spaces** with ZeroGPU (A10G) — try it at [`Lamri26/laya-ignite`](https://huggingface.co/spaces/Lamri26/laya-ignite).
+
+---
 
 ### ⚡ [Laya](https://github.com/NandhaKishorM/laya) — *Sub-35ms System-1 Decision Engine*
+
 *Laya is a non-autoregressive AI engine that outputs strict JSON probabilities with sub-35ms latency, eliminating LLM token latency for deterministic workflows.*
 
-* 🇩🇿 **Sole Algerian Contributor:** First and only contributor representing Algeria in the core Laya ecosystem.
-* 🚀 **Batch Decision Engine ([PR #387](https://github.com/NandhaKishorM/laya/pull/387)):** Architected and implemented the `POST /v1/systemone/batch` endpoint, enabling single-forward-pass batching across multiple states, concurrency admission gating (`503` overload protection), and strict option limit validation.
-* 🛠️ **Core GPU Fallback Diagnostics ([PR #9](https://github.com/NandhaKishorM/laya/pull/9) - Merged to `main`):** Diagnosed and resolved Issue #6, preventing silent CPU performance degradation on modern NVIDIA GPU architectures (Blackwell / RTX 50-series).
-* 📦 **TypeScript/JavaScript Ecosystem ([`laya-sdk`](https://github.com/ryuzcorp/laya-sdk)):** Built the drop-in TypeScript SDK providing full type safety and seamless client-side decision builders (`choice`, `score`, `noul`).
-* 🎨 **Brand Identity:** Conceptualized the "converging dots" motif that was adopted as the geometric basis for Laya's official branding.
+| PR | Title | Impact | Status |
+|:--:|-------|--------|:------:|
+| [#387](https://github.com/NandhaKishorM/laya/pull/387) | **Batch Decision Endpoint** `POST /v1/systemone/batch` | Single-forward-pass batching · 503 overload protection · ships in **v0.3.22** | ✅ Merged |
+| [#9](https://github.com/NandhaKishorM/laya/pull/9) | **GPU Fallback Diagnostics** | Fixes silent CPU degradation on NVIDIA Blackwell / RTX 50-series GPUs | ✅ Merged |
+
+**Key technical details — PR #387 (Batch Inference Endpoint):**
+* Designed the `BatchDecideRequest` / `BatchDecisionResponse` Pydantic schema for N-state fan-out over a shared question bank.
+* Implemented `POST /v1/systemone/batch` in FastAPI with single-forward-pass batching to maximize GPU utilization.
+* Added concurrency admission gating (`503 Service Unavailable`) to protect the server under load.
+* Enforced strict option limits (max 20 options per question) with descriptive validation errors.
+* Full test suite: 62 passing tests including new batch endpoint cases, rebased cleanly on `v0.3.21` (`9d95567`).
+
+**Other contributions:**
+* 🇩🇿 **Sole Algerian Contributor** to the core Laya ecosystem.
+* 📦 **TypeScript/JavaScript SDK ([`laya-sdk`](https://github.com/sirgio03/laya-js)):** Drop-in replacement for `@typesafe-ai/sdk` with full type safety and decision builders (`choice`, `score`, `noul`).
+* 🎨 **Brand Identity:** Conceptualized the "converging dots" motif adopted as the geometric basis for Laya's official branding.
 
 ---
 
@@ -113,4 +143,3 @@
   <br><br>
   <i>"Build things. Learn deeply. Make them useful."</i>
 </div>
-[![Laya v0.3.22 Contributor](https://img.shields.io/badge/Laya-v0.3.22%20Contributor-blue?logo=github)](https://github.com/NandhaKishorM/laya/pull/387)
